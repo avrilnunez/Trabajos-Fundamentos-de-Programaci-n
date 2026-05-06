@@ -1,3 +1,5 @@
+//25041712
+//Dulce Avril Nu帽ez Mier
 #include <iostream>
 #include <windows.h>
 using namespace std;
@@ -9,14 +11,14 @@ int main()
 	int cal1,cal2,cal3,prom;
 	cout<<"Dame tu nombre: ";
 	cin>>nombre;
-	cout<<"Dame la calificaci髇 1: ";
+	cout<<"Dame la calificaci贸n 1: ";
 	cin>>cal1;
-	cout<<"Dame la calificaci髇 2: ";
+	cout<<"Dame la calificaci贸n 2: ";
 	cin>>cal2;
-	cout<<"Dame la calificaci髇 3: ";
+	cout<<"Dame la calificaci贸n 3: ";
 	cin>>cal3;
 	prom=(cal1+cal2+cal3)/3;
-	cout<<nombre<<", tu promedio es; "<<prom<<"y tu calificaci髇 final es: ";
+	cout<<nombre<<", tu promedio es; "<<prom<<"y tu calificaci贸n final es: ";
 	if(prom>=90 && prom<=100)
 	cout<<"A";
 	else
