@@ -1,3 +1,5 @@
+//25041712
+//Dulce Avril Nu√±ez Mier
 #include<iostream>
 #include<math.h>
 #include<windows.h>
@@ -6,7 +8,7 @@ int main(){
     SetConsoleCP(CP_UTF8); SetConsoleOutputCP(CP_UTF8);
     int x, y; 
 	float z;
-    //Imprime numeros de 1 en 1 hasta el 100 mientras x<=100, variaciÛn: incrementos de 1 en 1 y 2 en 2
+    //Imprime numeros de 1 en 1 hasta el 100 mientras x<=100, variaci√≥n: incrementos de 1 en 1 y 2 en 2
     for(x=1;x<=100;x++)//x=x+1
     {
         cout<<x<<", ";
@@ -25,10 +27,10 @@ int main(){
     }
     cout<<y<<" Fuera del ciclo\n"; 
 	system("PAUSE");
-    //Variaciones del for. Se permite el uso de "," para uso de dos o m·s variables de control.
+    //Variaciones del for. Se permite el uso de "," para uso de dos o m√°s variables de control.
     for(x=0,y=0;x<y+1;x++){
         cout<<"Dame el valor de y: "; cin>>y;
-        cout<<x<<"+"<<y<<"="<<x+y<<" El ciclo contin˙a mientras la suma sea <10\n";
+        cout<<x<<"+"<<y<<"="<<x+y<<" El ciclo contin√∫a mientras la suma sea <10\n";
     }
     cout<<"<<<<<"<<x<<","<<y<<" Fuera del ciclo\n";
     //el for puede no tener todas sus partes
@@ -36,18 +38,18 @@ int main(){
         cout<<"Dame el valor de x, 123 para terminar el ciclo: ";
         cin>>x;
     }
-    system("PAUSE");    //termina cuando se teclea el 123 en x, no hay variaciÛn en la variable de ctrl //inicializaciÛn antes del for
+    system("PAUSE");    //termina cuando se teclea el 123 en x, no hay variaci√≥n en la variable de ctrl //inicializaci√≥n antes del for
     x=1;
     for(;x<=10;){
         printf("%d\n",x);
-        ++x; //variaciÛn fuera de la sentencia for pero dentro del cuerpo del ciclo
+        ++x; //variaci√≥n fuera de la sentencia for pero dentro del cuerpo del ciclo
     }
     system("PAUSE");
     //for(;;)//ciclo infinito
     //printf("Nunca termina\n");
     //bucles for sin cuerpo (retardadores)
     cout<<"Hola mundo\n";
-    for(x=0;x<1999999999;x++);//el ; hace que el ciclo concluya aquÌ
-    cout<<"Hola mundo despuÈs de unos cuantos segundos"; //No es parte del ciclo
+    for(x=0;x<1999999999;x++);//el ; hace que el ciclo concluya aqu√≠
+    cout<<"Hola mundo despu√©s de unos cuantos segundos"; //No es parte del ciclo
     return 0;
 }
