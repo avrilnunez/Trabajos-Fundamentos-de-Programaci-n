@@ -1,3 +1,5 @@
+//25041712
+//Dulce Avril Nuñez Mier
 //Prg que calcula una tabla de multiplicar
 #include<iostream>
 #include<windows.h>
@@ -7,7 +9,7 @@ int main()
     SetConsoleCP(CP_UTF8);
     SetConsoleOutputCP(CP_UTF8);
     int x, tabla;
-    cout<<"Dime cu�l tabla quieres generar: ";
+    cout<<"Dime cuál tabla quieres generar: ";
     cin>>tabla;
     for(x=1;x<11;x++){
         cout<<tabla<<" X "<<x<<" = "<<tabla*x<<"\n";
