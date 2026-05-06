@@ -1,3 +1,5 @@
+//25041712
+//Dulce Avril Nuñez Mier
 #include<iostream>
 #include<windows.h>
 using namespace std;
@@ -11,7 +13,7 @@ int main()
     suma=0;
     for (x=1;x!=-1;)
     {
-        cout<<"Dame un n�mero, -1 para terminar: ";
+        cout<<"Dame un número, -1 para terminar: ";
         cin>>x;
         cuantos++;
         suma=suma+x;
