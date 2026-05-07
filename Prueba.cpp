@@ -1,3 +1,5 @@
+//25041712
+//Dulce Avril Nuñez Mier
 #include <iostream>//carga la libreria iostream
 using namespace std;//establece el nombre del espacio std
 int main()//Inicio del programa principal
