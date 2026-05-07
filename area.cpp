@@ -1,3 +1,5 @@
+//25041712
+//Dulce Avril Nuñez Mier
 #include<iostream> //Biblioteca para entrada y salida estándar
 #include<math.h>   //Biblioteca para funciones matemáticas como sqrt()
 #include<Windows.h>//Biblioteca para manejar codificación de caracteres en la consola
