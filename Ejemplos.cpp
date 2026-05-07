@@ -19,3 +19,5 @@ x    hexadecimal
 %    imprime un %
 Los caracteres de control deben coincidir con los datos en cantidad,orden y tipo
 printf("Hola %c %d %s",'c',10,"que tal");
+//25041712
+//Dulce Avril Nuñez Mier
