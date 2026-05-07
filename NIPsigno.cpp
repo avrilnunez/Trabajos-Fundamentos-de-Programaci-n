@@ -1,7 +1,9 @@
+//25041712
+//Dulce Avril Nu√±ez Mier
 #include <iostream>
 #include <windows.h>
 using namespace std;
-/*pin con ?®*/
+/*pin con ?¬®*/
 int main()
 {
 	SetConsoleOutputCP(CP_UTF8);
@@ -12,7 +14,7 @@ int main()
 	cin>>intento;
 	if(intento==nip)
 	{
-		cout<<"**Correcto**\n"<<intento<<" es tu n˙mero de NIP";
+		cout<<"**Correcto**\n"<<intento<<" es tu n√∫mero de NIP";
 	}
 	else
 	{
