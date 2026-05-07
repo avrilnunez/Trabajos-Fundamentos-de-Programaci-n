@@ -1,3 +1,5 @@
+//25041712
+//Dulce Avril Nuñez Mier
 //Programa de ejemplo, lee una fecha en numero y la imprime en letra.
 #include <windows.h>
 #include <iostream>
