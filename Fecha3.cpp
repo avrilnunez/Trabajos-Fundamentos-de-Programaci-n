@@ -1,3 +1,5 @@
+//25041712
+//Dulce Avril Nuñez Mier
 #include <ventanas.h>
 #include <iostream>
 usando espacio de nombres std;
